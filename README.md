@@ -11,7 +11,7 @@ This repository contains a library of my notes on the twentieth module of a Pyth
 - **Platform:** Udemy 
 
 ### Contents
-This repository is organised into the following main sections:
+This repository is organised into the following sections:
 
 1. **Jupyter Notebooks - Advanced Python Objects and Data Structures:**
    [this directory](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/tree/main/Jupyter%20Notebooks%20-%20Advanced%20Python%20Objects%20and%20Data%20Structures) contains Jupyter notebooks that delve into advanced concepts of Python objects and data structures. These notebooks include detailed explanations and examples to enhance understanding of complex topics such as advanced numbers, strings, sets, dictionaries, and lists. Additionally, there are notebooks dedicated to tests and solutions to assess and reinforce the learnt concepts.
