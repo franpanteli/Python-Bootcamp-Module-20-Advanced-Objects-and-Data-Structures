@@ -14,12 +14,12 @@ This repository contains a library of my notes on the twentieth module of a Pyth
 This repository is organised into the following main sections:
 
 1. **Jupyter Notebooks - Advanced Python Objects and Data Structures:**
-   This folder contains Jupyter notebooks that delve into advanced concepts of Python objects and data structures. These notebooks include detailed explanations and examples to enhance understanding of complex topics such as advanced numbers, strings, sets, dictionaries, and lists. Additionally, there are notebooks dedicated to tests and solutions to assess and reinforce the learnt concepts.
+   [This directory](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/tree/main/Jupyter%20Notebooks%20-%20Advanced%20Python%20Objects%20and%20Data%20Structures) contains Jupyter notebooks that delve into advanced concepts of Python objects and data structures. These notebooks include detailed explanations and examples to enhance understanding of complex topics such as advanced numbers, strings, sets, dictionaries, and lists. Additionally, there are notebooks dedicated to tests and solutions to assess and reinforce the learnt concepts.
 
 2. **Jupyter Notebooks - Python Object and Data Structure Basics:**
-   This folder consists of Jupyter notebooks that cover the fundamental concepts of Python objects and data structures. These notebooks serve as a foundational resource to grasp the basics, including numbers, variable assignment, strings, lists, dictionaries, tuples, sets, booleans, and file handling.
+   [This directory](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/tree/main/Jupyter%20Notebooks%20-%20Python%20Object%20and%20Data%20Structure%20Basics) consists of Jupyter notebooks that cover the fundamental concepts of Python objects and data structures. These notebooks serve as a foundational resource to grasp the basics, including numbers, variable assignment, strings, lists, dictionaries, tuples, sets, booleans, and file handling.
 
-3. **Notes on Videos - Module 20 Advanced Objects and Data Structures:**
+3. **Notes on Videos:**
    This section contains PDF notes summarising the key points from the video lectures of Module 20. Each PDF corresponds to a specific topic covered in the advanced objects and data structures module.
    - [1 of 7 Advanced Numbers](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%2020%20Advanced%20Objects%20and%20Data%20Structures/1%20of%207%20Advanced%20Numbers.pdf)
     - [2 of 7 Advanced Strings](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%2020%20Advanced%20Objects%20and%20Data%20Structures/2%20of%207%20Advanced%20Strings.pdf)
