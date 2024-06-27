@@ -1,18 +1,15 @@
-# Python-Tensorflow-Library
--> text
--> hyperlinked contents
--> git clone link 
--> project files
+# Module-20-Advanced-Objects-and-Data-Structures
 ### Repository Overview 
 
-This repository contains a library of my notes on the first half of the content for the "Machine Learning with Python" certification course by freeCodeCamp, which I created as part of self-studying Python and am sharing here for use as a reference resource. The first half of the content in this course covers TensorFlow with Python. This is an extensive library of my notes on this section of the course, covering the fundamental aspects of TensorFlow with Python. This includes essential topics on machine learning, neural networks, natural language processing and reinforcement learning using this (the TensorFlow) framework. This libary consists of 32 PDF files below, each corresponding to a specific video lecture in this section of the course. 
+This repository contains a library of my notes on the first module of a Python 'bootcamp' I completed, as part of my independent learning. This was an in-depth Udemy course with 156 video lectures and exercises, to be completed in a Jupyter environment. This repository contains a library of my notes on the first module in this course, including an overview of and introduction to its content. 
 
-### Course Details For "Machine Learning with Python"
-- **Course URL:** [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
-- **Instructor:** Tim Ruscica (Tech With Tim)
-- **Framework:** TensorFlow
+### Course Details
+- **Course URL:** [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=ST18MT62524)
+- **Instructor:** Jose Portilla
+- **Language:** Python
+- **Platform:** Udemy 
   
-### Course Sections Covered For "TensorFlow"
+### Section 20 Video Notes
 - [1 of 7 Advanced Numbers](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%2020%20Advanced%20Objects%20and%20Data%20Structures/1%20of%207%20Advanced%20Numbers.pdf)
 - [2 of 7 Advanced Strings](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%2020%20Advanced%20Objects%20and%20Data%20Structures/2%20of%207%20Advanced%20Strings.pdf)
 - [3 of 7 Advanced Sets](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%2020%20Advanced%20Objects%20and%20Data%20Structures/3%20of%207%20Advanced%20Sets.pdf)
