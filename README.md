@@ -20,7 +20,7 @@ This repository is organised into the following main sections:
    [this directory](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/tree/main/Jupyter%20Notebooks%20-%20Python%20Object%20and%20Data%20Structure%20Basics) consists of Jupyter notebooks that cover the fundamental concepts of Python objects and data structures. These notebooks serve as a foundational resource to grasp the basics, including numbers, variable assignment, strings, lists, dictionaries, tuples, sets, booleans, and file handling.
 
 3. **Notes on Videos:**
-   This section contains PDF notes summarising the key points from the video lectures of Module 20. Each PDF corresponds to a specific topic covered in the advanced objects and data structures module.
+   this section contains PDF notes summarising the key points from the video lectures of Module 20. Each PDF corresponds to a specific topic covered in the advanced objects and data structures module.
    - [1 of 7 Advanced Numbers](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%2020%20Advanced%20Objects%20and%20Data%20Structures/1%20of%207%20Advanced%20Numbers.pdf)
     - [2 of 7 Advanced Strings](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%2020%20Advanced%20Objects%20and%20Data%20Structures/2%20of%207%20Advanced%20Strings.pdf)
     - [3 of 7 Advanced Sets](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%2020%20Advanced%20Objects%20and%20Data%20Structures/3%20of%207%20Advanced%20Sets.pdf)
@@ -30,7 +30,7 @@ This repository is organised into the following main sections:
     - [7 of 7 Advanced Python Objects Test - Solutions](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%2020%20Advanced%20Objects%20and%20Data%20Structures/7%20of%207%20Advanced%20Python%20Objects%20Test%20-%20Solutions.pdf)
 
 4. **Slides:**
-   The repository also includes slides from the video lectures which the notes were made on. These slides provide a visual representation of the concepts discussed and can be found [here](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Python%20Object%20and%20Data%20Structure%20Basics%20Slides.pdf).
+   the repository also includes slides from the video lectures which the notes were made on. These slides provide a visual representation of the concepts discussed and can be found [here](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Python%20Object%20and%20Data%20Structure%20Basics%20Slides.pdf).
 
 ### To Clone This Repository
 ```
