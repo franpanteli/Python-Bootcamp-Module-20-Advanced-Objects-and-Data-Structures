@@ -1,7 +1,7 @@
 # Module-20-Advanced-Objects-and-Data-Structures
 ### Repository Overview 
 
-This repository contains a library of my notes on the first module of a Python 'bootcamp' I completed, as part of my independent learning. This was an in-depth Udemy course with 156 video lectures and exercises, to be completed in a Jupyter environment. This repository contains a library of my notes on the first module in this course, including an overview of and introduction to its content. 
+This repository contains a library of my notes on the twentieth module of a Python 'bootcamp' I completed, as part of my independent learning. This was an in-depth Udemy course with 156 video lectures and exercises, to be completed in a Jupyter environment. This repository contains a library of my notes on the twentieth module in this course, including an overview of and introduction to its content. 
 
 ### Course Details
 - **Course URL:** [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=ST18MT62524)
