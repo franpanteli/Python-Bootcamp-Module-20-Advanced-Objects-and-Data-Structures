@@ -1,4 +1,4 @@
-# Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures
+# Bootcamp-Module-20-Advanced-Objects-and-Data-Structures
 
 ### Repository Overview 
 
