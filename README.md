@@ -35,4 +35,6 @@ This repository is organised into the following main sections:
 - [7 of 7 Advanced Python Objects Test - Solutions](https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures/blob/main/Notes%20on%20Videos%20-%20Module%2020%20Advanced%20Objects%20and%20Data%20Structures/7%20of%207%20Advanced%20Python%20Objects%20Test%20-%20Solutions.pdf)
 
 ### To Clone This Repository
+```
 git clone https://github.com/franpanteli/Python-Bootcamp-Module-20-Advanced-Objects-and-Data-Structures.git
+```
